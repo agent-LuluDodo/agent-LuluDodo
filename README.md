@@ -1,5 +1,5 @@
-Hi, I'm @agent-LuluDodo.
-I primarly code in java (mc modding).
+Hi, I'm @agent-LuluDodo.  
+I primarly code in java (mc modding).  
 I also play games :)..
 
 <!---

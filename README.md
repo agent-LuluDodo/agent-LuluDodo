@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @agent-LuluDodo
-- 👀 I’m interested in Gaming
+Hi, I'm @agent-LuluDodo.
+I primarly code in java (mc modding).
+I also play games :)..
 
 <!---
 agent-LuluDodo/agent-LuluDodo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
